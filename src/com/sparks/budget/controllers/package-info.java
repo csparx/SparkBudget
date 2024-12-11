@@ -23,4 +23,4 @@
  */
 package com.sparks.budget.controllers;
 
-import com.sparks.budget.ui.Main;
+import com.sparks.budget.Main;
